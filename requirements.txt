@@ -1,0 +1,2 @@
+waybackpy ~= 2.4.4
+nltk ~= 3.6.5

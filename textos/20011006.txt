@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /email_display.php3
+Disallow: /pdf.php3
+Disallow: /print.php3
+Disallow: /display.php3
